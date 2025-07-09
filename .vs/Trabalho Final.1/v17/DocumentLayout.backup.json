@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiqu\\OneDrive\\2 Semestre\\ATP\\Trabalho Final.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{125A27DF-5E6F-434B-9700-0226C732BED9}|Trabalho Final\\Trabalho Final.csproj|c:\\users\\kaiqu\\onedrive\\2 semestre\\atp\\trabalho final.1\\trabalho final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A27DF-5E6F-434B-9700-0226C732BED9}|Trabalho Final\\Trabalho Final.csproj|solutionrelative:trabalho final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A27DF-5E6F-434B-9700-0226C732BED9}|Trabalho Final\\Trabalho Final.csproj|C:\\Users\\kaiqu\\OneDrive\\2 Semestre\\ATP\\Trabalho Final.1\\trabalho final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{125A27DF-5E6F-434B-9700-0226C732BED9}|Trabalho Final\\Trabalho Final.csproj|solutionrelative:trabalho final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqu\\OneDrive\\2 Semestre\\ATP\\Trabalho Final.1\\Trabalho Final\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho Final\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqu\\OneDrive\\2 Semestre\\ATP\\Trabalho Final.1\\Trabalho Final\\Program.cs",
+              "RelativeToolTip": "Trabalho Final\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:30:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kaiqu\\OneDrive\\2 Semestre\\ATP\\Trabalho Final.1\\Trabalho Final\\App.config",
+              "RelativeDocumentMoniker": "Trabalho Final\\App.config",
+              "ToolTip": "C:\\Users\\kaiqu\\OneDrive\\2 Semestre\\ATP\\Trabalho Final.1\\Trabalho Final\\App.config",
+              "RelativeToolTip": "Trabalho Final\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-30T12:17:32.974Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

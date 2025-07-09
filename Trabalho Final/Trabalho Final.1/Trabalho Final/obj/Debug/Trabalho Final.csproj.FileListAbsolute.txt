@@ -1,0 +1,7 @@
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\bin\Debug\Trabalho Final.exe.config
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\bin\Debug\Trabalho Final.exe
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\bin\Debug\Trabalho Final.pdb
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\obj\Debug\Trabalho Final.csproj.AssemblyReference.cache
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\obj\Debug\Trabalho Final.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\obj\Debug\Trabalho Final.exe
+C:\Users\kaiqu\source\repos\Trabalho Final.1\Trabalho Final\obj\Debug\Trabalho Final.pdb
